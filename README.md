@@ -1,3 +1,7 @@
+This repository contains the code for TypeScript and React integration.
+
+It's a part of the _Beginning TypeScript_ book by Nathan Sebhastian
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
